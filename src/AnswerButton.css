@@ -1,0 +1,14 @@
+.answer-button {
+  font-size: 24px;
+  width: 120px;
+  padding: 10px 20px;
+  background-color: rgb(248, 246, 239);
+  border: 4px ridge goldenrod;
+  cursor: pointer;
+}
+
+.answer-button:hover {
+  background-color: goldenrod;
+  color: rgb(248, 246, 239);
+  border-color: rgb(248, 246, 239);
+}

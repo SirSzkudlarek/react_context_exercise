@@ -1,0 +1,24 @@
+.question-wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 400px;
+  padding: 10px;
+  background-color: #25531f;
+  align-items: center;
+  justify-content: center;
+  border: 6px ridge goldenrod;
+  gap: 25px;
+}
+
+.question-wrapper h3 {
+  font-size: 36px;
+  color: goldenrod;
+  text-shadow: -1px 2px 1px black;
+}
+
+.button-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_context_exercise/static/css/main.af5bf675.css",
+    "main.js": "/react_context_exercise/static/js/main.5fe7c418.js",
+    "static/media/female-mage.jpg": "/react_context_exercise/static/media/female-mage.4343ac7dc22858e1ef91.jpg",
+    "static/media/forest.jpg": "/react_context_exercise/static/media/forest.3eedf55d736d98623996.jpg",
+    "static/media/male-mage.jpg": "/react_context_exercise/static/media/male-mage.67524a5f736a14517d10.jpg",
+    "static/media/male-figther.jpg": "/react_context_exercise/static/media/male-figther.c405e2a02a72c14a55dc.jpg",
+    "static/media/male-ranger.jpg": "/react_context_exercise/static/media/male-ranger.e7d8a9db0b1f6dd33fe4.jpg",
+    "static/media/female-ranger.jpg": "/react_context_exercise/static/media/female-ranger.c71647ad9f01076f2569.jpg",
+    "static/media/female-figther.jpg": "/react_context_exercise/static/media/female-figther.179131b5ca5c7f7c89d2.jpg",
+    "index.html": "/react_context_exercise/index.html",
+    "main.af5bf675.css.map": "/react_context_exercise/static/css/main.af5bf675.css.map",
+    "main.5fe7c418.js.map": "/react_context_exercise/static/js/main.5fe7c418.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5bf675.css",
+    "static/js/main.5fe7c418.js"
+  ]
+}
